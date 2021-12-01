@@ -1,0 +1,12 @@
+bin/
+
+*/*/.classpath
+*/*/.project
+*/*/.tern-project
+*/*/.settings
+
+*/*/.jar
+
+.project
+.settings
+.classpath
